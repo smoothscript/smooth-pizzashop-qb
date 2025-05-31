@@ -13,9 +13,9 @@ A complete FiveM QBCore Pizza Job script with full business management, interact
 
 - 🏪 **Ownable Shop** – Players can purchase and operate their own pizzeria.  
 - 👔 **Job Management** – Hire, promote, or fire staff members.  
-- 💸 **Money Management** – Handle both personal and society funds.  
-- 🍳 **Item Cooking** – Interactive pizza-making mini-game for players.  
-- 💰 **Price Update** – Set dynamic prices for each pizza and addon.  
+- 💸 **Money Management** – Handle society funds.  
+- 🍳 **Item Cooking** – Interactive pizza-making for players.  
+- 💰 **Price Update** – Set dynamic prices for each pizza.  
 - 🎨 **Clean UI** – Modern, intuitive interface for customers and staff.  
 - ⚙️ **Highly Configurable** – Easily tweak every aspect of the script.  
 - 📍 **Ultimate Location** – Strategically placed pizzeria for maximum RP.  
