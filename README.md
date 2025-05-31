@@ -4,6 +4,11 @@ A complete FiveM QBCore Pizza Job script with full business management, interact
 
 ---
 
+![Pizza Job Preview](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1198781/01ccdba45ee8214cddb297d2569aedfa9a2c6b27.png)
+![Pizza Shop UI](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1198781/20ba1dda9c27b15af44efe15ebe79d0bf4eaa7f1.png)
+
+---
+
 ## 🔥 Features
 
 - 🏪 **Ownable Shop** – Players can purchase and operate their own pizzeria.  
